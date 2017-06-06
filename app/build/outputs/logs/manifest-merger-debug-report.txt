@@ -1,0 +1,131 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Josue\Desktop\Actividad 3\Entregable\PROYECTO\Actividad3IPO-Gutierrez_Negro\app\src\main\AndroidManifest.xml:2:1-40:12
+	package
+		ADDED from C:\Users\Josue\Desktop\Actividad 3\Entregable\PROYECTO\Actividad3IPO-Gutierrez_Negro\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from C:\Users\Josue\Desktop\Actividad 3\Entregable\PROYECTO\Actividad3IPO-Gutierrez_Negro\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Josue\Desktop\Actividad 3\Entregable\PROYECTO\Actividad3IPO-Gutierrez_Negro\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Josue\Desktop\Actividad 3\Entregable\PROYECTO\Actividad3IPO-Gutierrez_Negro\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Josue\Desktop\Actividad 3\Entregable\PROYECTO\Actividad3IPO-Gutierrez_Negro\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Josue\Desktop\Actividad 3\Entregable\PROYECTO\Actividad3IPO-Gutierrez_Negro\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Josue\Desktop\Actividad 3\Entregable\PROYECTO\Actividad3IPO-Gutierrez_Negro\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Josue\Desktop\Actividad 3\Entregable\PROYECTO\Actividad3IPO-Gutierrez_Negro\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Josue\Desktop\Actividad 3\Entregable\PROYECTO\Actividad3IPO-Gutierrez_Negro\app\src\main\AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from C:\Users\Josue\Desktop\Actividad 3\Entregable\PROYECTO\Actividad3IPO-Gutierrez_Negro\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Josue\Desktop\Actividad 3\Entregable\PROYECTO\Actividad3IPO-Gutierrez_Negro\app\src\main\AndroidManifest.xml:6:5-78
+	android:name
+		ADDED from C:\Users\Josue\Desktop\Actividad 3\Entregable\PROYECTO\Actividad3IPO-Gutierrez_Negro\app\src\main\AndroidManifest.xml:6:22-76
+application
+ADDED from C:\Users\Josue\Desktop\Actividad 3\Entregable\PROYECTO\Actividad3IPO-Gutierrez_Negro\app\src\main\AndroidManifest.xml:8:5-38:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Josue\.android\build-cache\fa5921976fafc7b35f96fbaea662a3326124e214\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\Josue\.android\build-cache\dba6f2ef86c3b2a34bfc5d3382f8c4b13567b815\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Josue\.android\build-cache\4c547357306fd334b7287feda9de957e34630e8c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Josue\.android\build-cache\6a0c7e8480abdd77037857ecf4bb1351d6c83a40\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Josue\.android\build-cache\65a49f3617677a1e6eedcac9e6882df85dfc2105\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Josue\.android\build-cache\762201ecd6f8fd9f97af3d7bab301296aea8b0a5\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Josue\.android\build-cache\12ae9c89a21f600e82069229528179d93961b569\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Josue\.android\build-cache\c6a17fe0d05ca1d17ec6309fb307283f738a4f1d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Josue\.android\build-cache\e8df29c99a277dd24e3eb7157689ba503710f92d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Josue\.android\build-cache\92c99a3d6595f127aadcf8e7f90f5b49836cc5b9\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Josue\.android\build-cache\ff47dca7cf94feda91da3d04b5e9e821baa19f6b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Josue\.android\build-cache\ba342c531ff7dd27b09c7ec9a774bb18536e685f\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\Josue\Desktop\Actividad 3\Entregable\PROYECTO\Actividad3IPO-Gutierrez_Negro\app\src\main\AndroidManifest.xml:11:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Josue\Desktop\Actividad 3\Entregable\PROYECTO\Actividad3IPO-Gutierrez_Negro\app\src\main\AndroidManifest.xml:13:9-35
+	android:roundIcon
+		ADDED from C:\Users\Josue\Desktop\Actividad 3\Entregable\PROYECTO\Actividad3IPO-Gutierrez_Negro\app\src\main\AndroidManifest.xml:12:9-54
+	android:allowBackup
+		ADDED from C:\Users\Josue\Desktop\Actividad 3\Entregable\PROYECTO\Actividad3IPO-Gutierrez_Negro\app\src\main\AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from C:\Users\Josue\Desktop\Actividad 3\Entregable\PROYECTO\Actividad3IPO-Gutierrez_Negro\app\src\main\AndroidManifest.xml:10:9-43
+	android:theme
+		ADDED from C:\Users\Josue\Desktop\Actividad 3\Entregable\PROYECTO\Actividad3IPO-Gutierrez_Negro\app\src\main\AndroidManifest.xml:14:9-40
+activity#ipo2.actividad3gutierrez_negro.LoginActivity
+ADDED from C:\Users\Josue\Desktop\Actividad 3\Entregable\PROYECTO\Actividad3IPO-Gutierrez_Negro\app\src\main\AndroidManifest.xml:15:9-24:20
+	android:label
+		ADDED from C:\Users\Josue\Desktop\Actividad 3\Entregable\PROYECTO\Actividad3IPO-Gutierrez_Negro\app\src\main\AndroidManifest.xml:17:13-45
+	android:theme
+		ADDED from C:\Users\Josue\Desktop\Actividad 3\Entregable\PROYECTO\Actividad3IPO-Gutierrez_Negro\app\src\main\AndroidManifest.xml:18:13-56
+	android:name
+		ADDED from C:\Users\Josue\Desktop\Actividad 3\Entregable\PROYECTO\Actividad3IPO-Gutierrez_Negro\app\src\main\AndroidManifest.xml:16:13-42
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Josue\Desktop\Actividad 3\Entregable\PROYECTO\Actividad3IPO-Gutierrez_Negro\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Josue\Desktop\Actividad 3\Entregable\PROYECTO\Actividad3IPO-Gutierrez_Negro\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\Users\Josue\Desktop\Actividad 3\Entregable\PROYECTO\Actividad3IPO-Gutierrez_Negro\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Josue\Desktop\Actividad 3\Entregable\PROYECTO\Actividad3IPO-Gutierrez_Negro\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\Josue\Desktop\Actividad 3\Entregable\PROYECTO\Actividad3IPO-Gutierrez_Negro\app\src\main\AndroidManifest.xml:22:27-74
+activity#ipo2.actividad3gutierrez_negro.ConversacionesActivity
+ADDED from C:\Users\Josue\Desktop\Actividad 3\Entregable\PROYECTO\Actividad3IPO-Gutierrez_Negro\app\src\main\AndroidManifest.xml:25:9-28:59
+	android:label
+		ADDED from C:\Users\Josue\Desktop\Actividad 3\Entregable\PROYECTO\Actividad3IPO-Gutierrez_Negro\app\src\main\AndroidManifest.xml:27:13-66
+	android:theme
+		ADDED from C:\Users\Josue\Desktop\Actividad 3\Entregable\PROYECTO\Actividad3IPO-Gutierrez_Negro\app\src\main\AndroidManifest.xml:28:13-56
+	android:name
+		ADDED from C:\Users\Josue\Desktop\Actividad 3\Entregable\PROYECTO\Actividad3IPO-Gutierrez_Negro\app\src\main\AndroidManifest.xml:26:13-51
+activity#ipo2.actividad3gutierrez_negro.ConversacionActivity
+ADDED from C:\Users\Josue\Desktop\Actividad 3\Entregable\PROYECTO\Actividad3IPO-Gutierrez_Negro\app\src\main\AndroidManifest.xml:29:9-32:59
+	android:label
+		ADDED from C:\Users\Josue\Desktop\Actividad 3\Entregable\PROYECTO\Actividad3IPO-Gutierrez_Negro\app\src\main\AndroidManifest.xml:31:13-64
+	android:theme
+		ADDED from C:\Users\Josue\Desktop\Actividad 3\Entregable\PROYECTO\Actividad3IPO-Gutierrez_Negro\app\src\main\AndroidManifest.xml:32:13-56
+	android:name
+		ADDED from C:\Users\Josue\Desktop\Actividad 3\Entregable\PROYECTO\Actividad3IPO-Gutierrez_Negro\app\src\main\AndroidManifest.xml:30:13-49
+activity#ipo2.actividad3gutierrez_negro.AmigosActivity
+ADDED from C:\Users\Josue\Desktop\Actividad 3\Entregable\PROYECTO\Actividad3IPO-Gutierrez_Negro\app\src\main\AndroidManifest.xml:33:9-36:68
+	android:label
+		ADDED from C:\Users\Josue\Desktop\Actividad 3\Entregable\PROYECTO\Actividad3IPO-Gutierrez_Negro\app\src\main\AndroidManifest.xml:35:13-58
+	android:theme
+		ADDED from C:\Users\Josue\Desktop\Actividad 3\Entregable\PROYECTO\Actividad3IPO-Gutierrez_Negro\app\src\main\AndroidManifest.xml:36:13-56
+	android:name
+		ADDED from C:\Users\Josue\Desktop\Actividad 3\Entregable\PROYECTO\Actividad3IPO-Gutierrez_Negro\app\src\main\AndroidManifest.xml:34:13-43
+uses-sdk
+INJECTED from C:\Users\Josue\Desktop\Actividad 3\Entregable\PROYECTO\Actividad3IPO-Gutierrez_Negro\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Josue\.android\build-cache\fa5921976fafc7b35f96fbaea662a3326124e214\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\Josue\.android\build-cache\dba6f2ef86c3b2a34bfc5d3382f8c4b13567b815\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Josue\.android\build-cache\4c547357306fd334b7287feda9de957e34630e8c\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Josue\.android\build-cache\6a0c7e8480abdd77037857ecf4bb1351d6c83a40\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Josue\.android\build-cache\65a49f3617677a1e6eedcac9e6882df85dfc2105\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Josue\.android\build-cache\d407fb8e01456a0f4a8a1e9797694444e94d6560\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Josue\.android\build-cache\762201ecd6f8fd9f97af3d7bab301296aea8b0a5\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Josue\.android\build-cache\12ae9c89a21f600e82069229528179d93961b569\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Josue\.android\build-cache\c6a17fe0d05ca1d17ec6309fb307283f738a4f1d\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Josue\.android\build-cache\e8df29c99a277dd24e3eb7157689ba503710f92d\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Josue\.android\build-cache\92c99a3d6595f127aadcf8e7f90f5b49836cc5b9\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Josue\.android\build-cache\ff47dca7cf94feda91da3d04b5e9e821baa19f6b\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Josue\.android\build-cache\ba342c531ff7dd27b09c7ec9a774bb18536e685f\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Josue\.android\build-cache\dba6f2ef86c3b2a34bfc5d3382f8c4b13567b815\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\Josue\Desktop\Actividad 3\Entregable\PROYECTO\Actividad3IPO-Gutierrez_Negro\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Josue\Desktop\Actividad 3\Entregable\PROYECTO\Actividad3IPO-Gutierrez_Negro\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Josue\Desktop\Actividad 3\Entregable\PROYECTO\Actividad3IPO-Gutierrez_Negro\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Josue\Desktop\Actividad 3\Entregable\PROYECTO\Actividad3IPO-Gutierrez_Negro\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\Josue\.android\build-cache\dba6f2ef86c3b2a34bfc5d3382f8c4b13567b815\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Josue\.android\build-cache\4c547357306fd334b7287feda9de957e34630e8c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Josue\.android\build-cache\6a0c7e8480abdd77037857ecf4bb1351d6c83a40\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Josue\.android\build-cache\65a49f3617677a1e6eedcac9e6882df85dfc2105\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Josue\.android\build-cache\d407fb8e01456a0f4a8a1e9797694444e94d6560\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Josue\.android\build-cache\762201ecd6f8fd9f97af3d7bab301296aea8b0a5\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Josue\.android\build-cache\12ae9c89a21f600e82069229528179d93961b569\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Josue\.android\build-cache\c6a17fe0d05ca1d17ec6309fb307283f738a4f1d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Josue\.android\build-cache\e8df29c99a277dd24e3eb7157689ba503710f92d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Josue\.android\build-cache\92c99a3d6595f127aadcf8e7f90f5b49836cc5b9\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Josue\.android\build-cache\ff47dca7cf94feda91da3d04b5e9e821baa19f6b\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Josue\.android\build-cache\ba342c531ff7dd27b09c7ec9a774bb18536e685f\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Josue\.android\build-cache\dba6f2ef86c3b2a34bfc5d3382f8c4b13567b815\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Josue\.android\build-cache\dba6f2ef86c3b2a34bfc5d3382f8c4b13567b815\output\AndroidManifest.xml:26:9-47
