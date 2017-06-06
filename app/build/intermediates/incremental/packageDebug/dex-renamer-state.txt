@@ -1,0 +1,7 @@
+#Wed May 31 20:22:12 CEST 2017
+base.0=D\:\\Actividad3IPO-Gutierrez_Negro\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_393fb02d0a5044bf1271d5cdfbb77ccfc0426882
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Actividad3IPO-Gutierrez_Negro\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_5ed53d2afb315b4f9ca98073080ca83ee320de84\\classes.dex
+base.1=D\:\\Actividad3IPO-Gutierrez_Negro\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_5ed53d2afb315b4f9ca98073080ca83ee320de84
+file.0=D\:\\Actividad3IPO-Gutierrez_Negro\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_393fb02d0a5044bf1271d5cdfbb77ccfc0426882\\classes.dex
