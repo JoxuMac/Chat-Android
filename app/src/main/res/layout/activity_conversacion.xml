@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="ipo2.actividad3gutierrez_negro.ConversacionActivity">
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <Button
+            android:id="@+id/btnVolver"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:onClick="click_VolverAmigos"
+            android:text="@string/volver" />
+
+    </android.support.design.widget.AppBarLayout>
+
+    <include layout="@layout/content_conversacion"
+        android:id="@+id/include" />
+
+    <Button
+        android:id="@+id/btnEnviar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical|left"
+        android:onClick="click_EnviarMensaje"
+        android:text="@string/enviar"
+        app:layout_anchor="@+id/include"
+        app:layout_anchorGravity="bottom|right"
+        tools:ignore="RtlHardcoded" />
+
+    <EditText
+        android:id="@+id/txtMsg"
+        android:layout_width="274dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:ems="10"
+        android:hint="@string/mensaje"
+        android:inputType="textPersonName" />
+
+    <ListView
+        android:id="@+id/lstMensajes"
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:layout_gravity="bottom"
+        android:layout_marginBottom="50dp" />
+
+</android.support.design.widget.CoordinatorLayout>

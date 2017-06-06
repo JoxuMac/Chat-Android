@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Actividad3Gutierrez_Negro</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_conversaciones">ConversacionesActivity</string>
+    <string name="title_activity_conversacion">ConversacionActivity</string>
+    <string name="title_activity_amigos">AmigosActivity</string>
+    <string name="entrar">Entrar</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="usuario">Usuario</string>
+    <string name="titulo">Actividad 3</string>
+    <string name="volver">Volver</string>
+    <string name="mensaje">Mensaje</string>
+    <string name="enviar">Enviar</string>
+    <string name="menuContextVerConversacion">Ver conversacion</string>
+    <string name="menuContextBorrarConversacion">Borrar conversacion</string>
+</resources>
