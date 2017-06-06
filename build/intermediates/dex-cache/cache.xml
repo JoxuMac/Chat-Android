@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Actividad3IPO-Gutierrez_Negro\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="D:\Actividad3IPO-Gutierrez_Negro\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_393fb02d0a5044bf1271d5cdfbb77ccfc0426882\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Josue\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\Actividad3IPO-Gutierrez_Negro\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_ceccd03b0ecbbead1b857cbad3d4b7c2e9968fdd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Josue\.android\build-cache\fa5921976fafc7b35f96fbaea662a3326124e214\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\Actividad3IPO-Gutierrez_Negro\app\build\intermediates\pre-dexed\debug\classes_db7e04408710cc7ff853cc636925f62acfd90bf3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Actividad3IPO-Gutierrez_Negro\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45a1ba096cc28d23b1fbba68a1f13edb965fd1c7">
+        <dex dex="D:\Actividad3IPO-Gutierrez_Negro\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_5ed53d2afb315b4f9ca98073080ca83ee320de84\classes.dex" />
+    </item>
+
+</items>
