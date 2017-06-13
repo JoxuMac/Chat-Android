@@ -9,3 +9,7 @@ Chat con Persistencia en Servidor SQL diseñado para Android 4.0.3 (IceCreamSand
 * Compañero: Miguel Negro Lopez
 
 * Calificacion: 9.7
+
+
+# Ejecucion
+* Entorno Android Studio
